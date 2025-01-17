@@ -1,6 +1,6 @@
 //target form and handle submit. Make array of user answers and real answers. Calculate score.
 const form = document.querySelector(".quiz-form");
-const realAnswers = ["A", "A", "A", "A", "A"];
+const realAnswers = ["D", "B", "C", "B", "D"];
 let score = 0;
 const resultSection = document.querySelector(".result");
 const tryAgainBtn = document.querySelector(".reload button");
